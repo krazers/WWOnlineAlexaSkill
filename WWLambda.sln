@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WWLambda", "WWLambda\WWLambda\WWLambda.csproj", "{1904DBC6-F343-4892-ADC3-FFDA99B9050E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WWLambda.Tests", "WWLambda\WWLambda.Tests\WWLambda.Tests.csproj", "{32141DB8-6924-4586-8620-9D3FF5FADE07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1904DBC6-F343-4892-ADC3-FFDA99B9050E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1904DBC6-F343-4892-ADC3-FFDA99B9050E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1904DBC6-F343-4892-ADC3-FFDA99B9050E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1904DBC6-F343-4892-ADC3-FFDA99B9050E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32141DB8-6924-4586-8620-9D3FF5FADE07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32141DB8-6924-4586-8620-9D3FF5FADE07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32141DB8-6924-4586-8620-9D3FF5FADE07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32141DB8-6924-4586-8620-9D3FF5FADE07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
